@@ -1,5 +1,5 @@
 # Sobre
-Shoesy é um app que permite ao usuário explorar modelos de tênis das marcas mais famosas do mercado e compartilhar suas reviews sobre cada modelo.
+Shoeshine é um app que permite ao usuário explorar modelos de tênis das marcas mais famosas do mercado e compartilhar suas reviews sobre cada modelo.
 
 # Histórias de Usuário
 
